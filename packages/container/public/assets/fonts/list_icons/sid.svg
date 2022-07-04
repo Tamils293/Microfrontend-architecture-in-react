@@ -1,0 +1,15 @@
+<svg  width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1568" data-name="Rectangle 1568" width="24" height="24" transform="translate(475 235)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="sid" transform="translate(-475 -235)" clip-path="url()">
+    <g id="Group_6772" data-name="Group 6772" transform="translate(477.667 237.667)">
+      <rect id="Rectangle_1567" data-name="Rectangle 1567" width="17.439" height="19.563" rx="1.758" transform="translate(0 0)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_690" data-name="Line 690" x2="11.083" transform="translate(3.178 5.439)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_691" data-name="Line 691" x2="11.083" transform="translate(3.178 9.976)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_692" data-name="Line 692" x2="11.083" transform="translate(3.178 14.512)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

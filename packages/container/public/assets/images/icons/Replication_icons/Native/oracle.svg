@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1518" data-name="Rectangle 1518" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="oracle" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <circle id="Oracle-2" data-name="Oracle" cx="12" cy="12" r="12" transform="translate(1449 229)" fill="#e30613"/>
+    <path id="Path_13659" data-name="Path 13659" d="M5.681,23.163a5.681,5.681,0,0,1,0-11.363h6.637a5.681,5.681,0,1,1,0,11.363ZM12.2,21.129a3.708,3.708,0,1,0,0-7.415H5.86a3.708,3.708,0,0,0,0,7.415Z" transform="translate(1452 223.2)" fill="#fff"/>
+  </g>
+</svg>

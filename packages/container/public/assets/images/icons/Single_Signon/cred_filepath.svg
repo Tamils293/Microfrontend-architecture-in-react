@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3568" data-name="Rectangle 3568" width="24" height="24" transform="translate(1449 230)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="cred_filepath" transform="translate(-1449 -230)" clip-path="url(#clip-path)">
+    <g id="Group_10069" data-name="Group 10069" transform="translate(1450.311 230.569)">
+      <rect id="Rectangle_3569" data-name="Rectangle 3569" width="4.676" height="3.192" rx="0.531" transform="translate(8.354 1.431)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_3570" data-name="Rectangle 3570" width="4.676" height="3.192" rx="0.531" transform="translate(8.354 8.653)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_3571" data-name="Rectangle 3571" width="4.676" height="3.192" rx="0.531" transform="translate(8.354 16.268)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_10070" data-name="Group 10070" transform="translate(0.689 10.249)">
+        <g id="Group_10069-2" data-name="Group 10069" transform="translate(4.413 5.238)">
+          <path id="Path_20471" data-name="Path 20471" d="M4.409,13.116l2.35,2.463-2.4,2.292Z" transform="translate(-4.358 -13.116)" fill="#b73f83"/>
+        </g>
+        <path id="Path_20472" data-name="Path 20472" d="M5.691,16.875H4.745A4.056,4.056,0,0,1,.689,12.818h0A4.056,4.056,0,0,1,4.745,8.762h2.1" transform="translate(-0.689 -8.762)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_10072" data-name="Group 10072" transform="translate(13.874 2.579)">
+        <g id="Group_10071" data-name="Group 10071" transform="translate(0 5.237)">
+          <path id="Path_20473" data-name="Path 20473" d="M14,6.739,11.651,9.2l2.4,2.292Z" transform="translate(-11.651 -6.739)" fill="#b73f83"/>
+        </g>
+        <path id="Path_20474" data-name="Path 20474" d="M13.353,10.5H14.3a4.057,4.057,0,0,0,4.056-4.056h0A4.056,4.056,0,0,0,14.3,2.385h-2.1" transform="translate(-11.54 -2.385)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="server-hm" transform="translate(-908.092 -559.086)">
+    <circle id="Ellipse_136" data-name="Ellipse 136" cx="31" cy="31" r="31" transform="translate(908.092 559.086)" fill="#a239af"/>
+    <g id="server2" transform="translate(928.092 574.14)">
+      <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" width="22.717" height="31.491" rx="2" transform="translate(0 3.455)" fill="#fff"/>
+      <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" width="13.944" height="5.17" rx="2.585" transform="translate(4.387 6.902)" fill="#a239af"/>
+      <rect id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" width="13.944" height="5.17" rx="2.585" transform="translate(4.387 13.326)" fill="#a239af"/>
+      <ellipse id="Ellipse_127" data-name="Ellipse 127" cx="1.41" cy="1.41" rx="1.41" ry="1.41" transform="translate(10.027 22.413)" fill="#a239af"/>
+      <ellipse id="Ellipse_1_copy" data-name="Ellipse 1 copy" cx="1.41" cy="1.41" rx="1.41" ry="1.41" transform="translate(10.027 27.113)" fill="#a239af"/>
+      <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" d="M63.681,2.148H43L44.723.581s.345-.721,1.723-.627,15.041,0,15.041,0a2.038,2.038,0,0,1,1.723.94,5.44,5.44,0,0,0,1.1,1.253Z" transform="translate(-42.373 0.054)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

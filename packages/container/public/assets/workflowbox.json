@@ -1,0 +1,208 @@
+{
+    "nodeData": [
+        {
+            "id": "node1",
+            "offsetX": 350,
+            "offsetY": 50,
+            "style": {
+                "fill": "#3cb44a",
+                "strokeColor": "#3cb44a"
+            },
+            "width": 60,
+            "height": 30,
+            "shape": {
+                "type": "Flow",
+                "shape": "Terminator"
+            },
+            "annotations": [
+                {
+                    "id": "label1",
+                    "content": "Start"
+                }
+            ]
+        },
+        {
+            "id": "node2",
+            "offsetY": 160,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">2.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node3",
+            "offsetY": 240,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">3.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node4",
+            "offsetY": 320,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">4.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node5",
+            "offsetY": 400,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">5.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node6",
+            "offsetY": 480,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">6.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node7",
+            "offsetY": 560,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">7.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node8",
+            "offsetY": 640,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">8.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node9",
+            "offsetY": 720,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">9.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id": "node10",
+            "offsetY": 800,
+            "offsetX": 350,
+            "width": 400,
+            "height": 50,
+            "style": {
+                "fill": "#6BA5D7",
+                "strokeColor": "white"
+            },
+            "shape": {
+                "type": "HTML",
+                "content": "<div class=\"box\" id=\"node6\">\n                        <div class=\"node_img_div\" style=\"background:#228c1d\"> <img class=\"node_img\" src=\"assets/images/workflow/dr_group.png\"></div>\n                        <div class=\"node_label\">10.Run Job & Restore Job</div>\n                        <div class=\"node_action\"> \n                            <img class=\"action_more_img\" src=\"assets/images/workflow/more_icon.png\"/>\n                        </div>\n                    </div>"
+            }
+        },
+        {
+            "id":"group",            
+            "fill":"#3cb44a",
+            "fillColor":"gray",
+            "children":["node2","node3"]
+        }
+    ],
+    "connectorData": [
+        {
+            "id": "connector1",
+            "sourceID": "node1",
+            "targetID": "group"
+        },
+        {
+            "id": null,
+            "sourceID": "group",
+            "targetID": "node4"
+        },
+        {
+            "id": null,
+            "sourceID": "node4",
+            "targetID": "node5"
+        },
+        {
+            "id": null,
+            "sourceID": "node5",
+            "targetID": "node6"
+        },
+        {
+            "id": null,
+            "sourceID": "node6",
+            "targetID": "node7"
+        },
+        {
+            "id": null,
+            "sourceID": "node7",
+            "targetID": "node8"
+        },
+        {
+            "id": null,
+            "sourceID": "node8",
+            "targetID": "node9"
+        },
+        {
+            "id": null,
+            "sourceID": "node9",
+            "targetID": "node10"
+        }
+    ]
+}

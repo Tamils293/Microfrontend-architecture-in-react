@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1164" data-name="Rectangle 1164" width="18" height="18" transform="translate(458 228)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="name-icon" transform="translate(-458 -228)" clip-path="url(#clip-path)">
+    <g id="Rectangle_1163" data-name="Rectangle 1163" transform="translate(459 230)" fill="none" stroke="#b73f83" stroke-width="1">
+      <rect width="16" height="14" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15" height="13" rx="1.5" fill="none"/>
+    </g>
+    <line id="Line_484" data-name="Line 484" x2="9.833" transform="translate(461.667 234.146)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_485" data-name="Line 485" x2="4.333" transform="translate(461.667 236.857)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_486" data-name="Line 486" x2="4.333" transform="translate(461.667 239.854)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

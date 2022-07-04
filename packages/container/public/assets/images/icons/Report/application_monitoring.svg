@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3522" data-name="Rectangle 3522" width="22" height="22" transform="translate(474 229)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="application_monitoring" transform="translate(-474 -229)" clip-path="url(#clip-path)">
+    <g id="monitoring-Service" transform="translate(-1312.65 -714.026)">
+      <path id="Path_6955" data-name="Path 6955" d="M1797.65,962.626v-2.081a1.209,1.209,0,0,0-1.211-1.207h-6.184a1.6,1.6,0,0,1-1.6-1.6V946.624a1.6,1.6,0,0,1,1.6-1.6h14.792a1.6,1.6,0,0,1,1.6,1.6V957.74a1.6,1.6,0,0,1-1.6,1.6h-9.735" transform="translate(0)" fill="none" stroke="#515151" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_347" data-name="Line 347" x2="5.753" transform="translate(1794.774 962.923)" fill="none" stroke="#515151" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_6956" data-name="Path 6956" d="M1816.451,969.793a3.365,3.365,0,1,0-1.843-1.6,1.409,1.409,0,0,1-.25,1.655l-2.279,2.273" transform="translate(-19.147 -15.628)" fill="none" stroke="#515151" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

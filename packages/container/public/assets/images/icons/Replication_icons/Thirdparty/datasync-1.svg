@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1559" data-name="Rectangle 1559" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="datasync" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Group_6742" data-name="Group 6742">
+      <circle id="Ellipse_1523" data-name="Ellipse 1523" cx="12" cy="12" r="12" transform="translate(1449.001 229)" fill="#0a93e2"/>
+      <g id="Group_6741" data-name="Group 6741" transform="translate(1452.792 231.533)">
+        <line id="Line_686" data-name="Line 686" x2="15.582" transform="translate(1.209 5.33)" fill="#eff3f4" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_687" data-name="Line 687" x2="15.582" transform="translate(1.209 13.531)" fill="#eff3f4" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_1557" data-name="Rectangle 1557" width="6.044" height="5.725" rx="0.849" transform="translate(8.692 2.467)" fill="#0a93e2" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <rect id="Rectangle_1558" data-name="Rectangle 1558" width="6.044" height="5.725" rx="0.864" transform="translate(3.54 10.669)" fill="#0a93e2" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1623" data-name="Rectangle 1623" width="24" height="24" transform="translate(458 228)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="name" transform="translate(-458 -228)" clip-path="url(#clip-path)">
+    <g id="Rectangle_1622" data-name="Rectangle 1622" transform="translate(459.333 230.667)" fill="none" stroke="#b73f83" stroke-width="1">
+      <rect width="21.333" height="18.667" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20.333" height="17.667" rx="1.5" fill="none"/>
+    </g>
+    <line id="Line_700" data-name="Line 700" x2="13.111" transform="translate(462.889 236.194)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_701" data-name="Line 701" x2="5.777" transform="translate(462.889 239.809)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_702" data-name="Line 702" x2="5.777" transform="translate(462.889 243.806)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

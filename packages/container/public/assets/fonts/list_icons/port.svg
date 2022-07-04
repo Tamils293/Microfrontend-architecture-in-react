@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1570" data-name="Rectangle 1570" width="24" height="24" transform="translate(616 225)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="port" transform="translate(-616 -225)" clip-path="url()">
+    <g id="Group_6774" data-name="Group 6774" transform="translate(615.934 223.785)">
+      <path id="Path_9269" data-name="Path 9269" d="M18.749,8.87c0,4.43-8.02,12.23-8.02,12.23S2.708,13.3,2.708,8.87a8.021,8.021,0,0,1,16.041,0Z" transform="translate(1.359 1.98)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse id="Ellipse_1169" data-name="Ellipse 1169" cx="2.967" cy="2.967" rx="2.967" ry="2.967" transform="translate(9.074 8.647)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

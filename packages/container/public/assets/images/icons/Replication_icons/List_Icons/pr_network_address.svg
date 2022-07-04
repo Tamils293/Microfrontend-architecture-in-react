@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1606" data-name="Rectangle 1606" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="pr_network_address" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Group_6862" data-name="Group 6862" transform="translate(-166 177)">
+      <circle id="Ellipse_692" data-name="Ellipse 692" cx="1.582" cy="1.582" r="1.582" transform="translate(1618 58.087)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Ellipse_693" data-name="Ellipse 693" cx="1.582" cy="1.582" r="1.582" transform="translate(1632.322 58.722)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_6957" data-name="Path 6957" d="M1671.24,61.886V57.457a.325.325,0,0,1,.274-.317h0a1.582,1.582,0,1,0-1.323-.371" transform="translate(-44.229 0)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_348" data-name="Line 348" y1="2.069" x2="3.549" transform="translate(1629.129 61.303)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_6958" data-name="Path 6958" d="M1638.421,99.086l3.667,2.028a.858.858,0,0,0,.967-.1,2.252,2.252,0,1,1-.8,2.007" transform="translate(-17.484 -38.603)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Ellipse_694" data-name="Ellipse 694" cx="1.582" cy="1.582" r="1.582" transform="translate(1618.431 66.47)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Ellipse_695" data-name="Ellipse 695" cx="1.582" cy="1.582" r="1.582" transform="translate(1625.325 70.836)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_6959" data-name="Path 6959" d="M1679.937,140.717v4.125" transform="translate(-53.03 -74.247)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_349" data-name="Line 349" x1="3.549" y2="2.069" transform="translate(1621.239 64.984)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Ellipse_696" data-name="Ellipse 696" cx="1.582" cy="1.582" r="1.582" transform="translate(1632.337 66.47)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_350" data-name="Line 350" x2="3.549" y2="2.069" transform="translate(1629.144 64.984)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

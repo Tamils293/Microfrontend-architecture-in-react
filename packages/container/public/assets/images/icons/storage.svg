@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1599" data-name="Rectangle 1599" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="storage" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Group_6791" data-name="Group 6791" transform="translate(1260.16 197.221)">
+      <path id="Path_13792" data-name="Path 13792" d="M192.55,37.55l-1.878.8V48.772s4.237,3.527,19.345.169c-.08-1.918,0-10.591,0-10.591H209.3" transform="translate(0 0.39)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse id="Ellipse_1539" data-name="Ellipse 1539" cx="9.672" cy="2.918" rx="9.672" ry="2.918" transform="translate(190.672 35.822)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13793" data-name="Path 13793" d="M206.77,46.186c-.047,0-.093,0-.14.006a3.224,3.224,0,1,0-6.308-.948,3.036,3.036,0,1,0-1.012,5.9h7.46a2.8,2.8,0,0,0,3.038-2.479A2.8,2.8,0,0,0,206.77,46.186Z" transform="translate(1.262 1.399)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_13794" data-name="Path 13794" d="M190.672,42.312a10.387,10.387,0,0,0,5,1.619" transform="translate(0 1.463)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

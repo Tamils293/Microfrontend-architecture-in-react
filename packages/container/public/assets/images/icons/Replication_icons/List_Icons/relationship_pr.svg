@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1660" data-name="Rectangle 1660" width="24" height="24" transform="translate(601 338)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="relationship_pr" transform="translate(-601 -338)" clip-path="url(#clip-path)">
+    <g id="Group_6886" data-name="Group 6886" transform="translate(603 339.085)">
+      <path id="Path_13883" data-name="Path 13883" d="M-12880-3957.346v13.6s7.2,2.868,7.084,2.868c0,.039,13.492-5.016,13.492-5.016v-13.6l-5.725-3.221Z" transform="translate(12880 3962.714)" fill="none" stroke="#b73f83" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13884" data-name="Path 13884" d="M-12879.689-3957.824l6.7,2.817,13.582-4.932" transform="translate(12880.081 3963.416)" fill="none" stroke="#b73f83" stroke-width="1"/>
+      <path id="Path_13885" data-name="Path 13885" d="M-12874.375-3942.668v-13.269" transform="translate(12881.421 3964.426)" fill="none" stroke="#b73f83" stroke-width="1"/>
+      <path id="Path_13886" data-name="Path 13886" d="M.84,0A1.2,1.2,0,0,1,1.8,1.225c.033.654-.342,1.167-.838,1.145A1.2,1.2,0,0,1,0,1.145C-.031.491.344-.021.84,0Z" transform="translate(1.311 16.314) rotate(-17.31)" fill="#b73f83"/>
+      <line id="Line_724" data-name="Line 724" x2="4.448" y2="1.937" transform="translate(1.311 13.186)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_725" data-name="Line 725" x2="4.448" y2="1.937" transform="translate(1.311 9.429)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

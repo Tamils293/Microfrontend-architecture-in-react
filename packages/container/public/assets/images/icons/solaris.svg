@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2460" data-name="Rectangle 2460" width="22" height="22" transform="translate(748 144)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="solaris" transform="translate(-748 -144)" clip-path="url(#clip-path)">
+    <g id="layer1" transform="translate(748.956 146.87)">
+      <path id="path2453" d="M16.88,106.908l-5.542-2.99,6.147,1.173Z" transform="translate(-10.823 -96.803)" fill="#c1003f" stroke="#c1003f" stroke-width="1" fill-rule="evenodd"/>
+      <path id="path2455" d="M51.741,50.617l-3.367-5.526,4.728,4.39Z" transform="translate(-44.834 -42.783)" fill="#c1003f" stroke="#c1003f" stroke-width="1" fill-rule="evenodd"/>
+      <path id="path2457" d="M114.466,23.082l-1.513-6.245-.227,6.434Z" transform="translate(-103.927 -16.837)" fill="#c1003f" stroke="#c1003f" stroke-width="1" fill-rule="evenodd"/>
+      <path id="path2459" d="M141.66,34.51l3.568-5.331-2.017,6.145Z" transform="translate(-130.497 -28.17)" fill="#c1003f" stroke="#c1003f" stroke-width="1" fill-rule="evenodd"/>
+      <path id="path2461" d="M167.337,83.4l-.908-1.627,5.593-2.548Z" transform="translate(-153.242 -74.126)" fill="#c1003f" stroke="#c1003f" stroke-width="1" fill-rule="evenodd"/>
+      <path id="path3241" d="M25.346,142.716c-5.935-1.011-20.44.019-20.3,2.991.068,2.349,9.259,2.927,14.664,2.863-5.115-.428-8.96-1.243-9.024-2.672C10.751,143.393,17.4,142.978,25.346,142.716Z" transform="translate(-5.041 -132.084)" fill="#4a3c7b" stroke="#4a3c7b" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

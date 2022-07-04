@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3500" data-name="Rectangle 3500" width="32" height="32" transform="translate(1188 122)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="print" transform="translate(-1188 -122)" clip-path="url(#clip-path)">
+    <g id="Group_9966" data-name="Group 9966" transform="translate(1189.908 123.918)">
+      <path id="Path_20299" data-name="Path 20299" d="M-109.384,35.434V30.425H-93.51v5.009" transform="translate(116.147 -30.425)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_20300" data-name="Path 20300" d="M-84.743,37.986V49.573A2.262,2.262,0,0,1-87,51.834h-3.681V46.6H-106.56v5.237h-4.5a2.262,2.262,0,0,1-2.261-2.261V37.986a4.638,4.638,0,0,1,4.634-4.643h19.312A4.638,4.638,0,0,1-84.743,37.986Z" transform="translate(113.323 -28.333)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <rect id="Rectangle_3497" data-name="Rectangle 3497" width="15.874" height="10.036" transform="translate(6.763 18.265)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_992" data-name="Line 992" x1="2.4" transform="translate(22.637 18.265)" fill="#d9f0f9" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_993" data-name="Line 993" x1="3.002" transform="translate(3.761 18.265)" fill="#d9f0f9" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <rect id="Rectangle_3498" data-name="Rectangle 3498" width="9.79" height="1.009" transform="translate(9.49 21.049)" fill="#515151"/>
+      <rect id="Rectangle_3499" data-name="Rectangle 3499" width="9.79" height="1.009" transform="translate(9.49 24.458)" fill="#515151"/>
+      <circle id="Ellipse_2103" data-name="Ellipse 2103" cx="1.188" cy="1.188" r="1.188" transform="translate(4.074 8.828)" fill="#515151"/>
+      <circle id="Ellipse_2104" data-name="Ellipse 2104" cx="1.188" cy="1.188" r="1.188" transform="translate(9.49 8.828)" fill="#515151"/>
+    </g>
+  </g>
+</svg>

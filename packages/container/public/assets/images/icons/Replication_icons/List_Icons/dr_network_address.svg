@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1661" data-name="Rectangle 1661" width="24" height="24" transform="translate(611 572)" fill="#fff" stroke="#8f9198" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="dr_network_address" transform="translate(-611 -572)" clip-path="url(#clip-path)">
+    <g id="Group_6887" data-name="Group 6887" transform="translate(614 574)">
+      <path id="Path_13887" data-name="Path 13887" d="M1072.75,1312.462a9.462,9.462,0,0,1,16.716-6.074" transform="translate(-1072.75 -1303)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13888" data-name="Path 13888" d="M1094.077,1321.5a9.461,9.461,0,0,1-16.406,6.426" transform="translate(-1075.154 -1312.039)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13889" data-name="Path 13889" d="M1102.783,1303v4.283H1098.5" transform="translate(-1085.331 -1303)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13890" data-name="Path 13890" d="M1076.4,1337.033v-4.283h4.283" transform="translate(-1074.534 -1317.535)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.143" y1="0.19" x2="2.036" y2="1.298" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a13098"/>
+      <stop offset="0.364" stop-color="#cd4d6e"/>
+      <stop offset="1" stop-color="#fb6b43"/>
+    </linearGradient>
+  </defs>
+  <g id="transfer" transform="translate(-1349 -140)">
+    <rect id="Rectangle_798" data-name="Rectangle 798" width="42" height="42" rx="21" transform="translate(1349 140)" fill="url(#linear-gradient)"/>
+    <g id="Group_5645" data-name="Group 5645" transform="translate(1367.747 149.417) rotate(90)">
+      <line id="Line_354" data-name="Line 354" x2="9.886" transform="translate(4.083 2.874)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_12196" data-name="Path 12196" d="M0,0,2.49,2.492a.54.54,0,0,1,0,.765L0,5.747" transform="translate(12.017)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g id="Group_5646" data-name="Group 5646" transform="translate(1371.254 168.083) rotate(-90)">
+      <line id="Line_354-2" data-name="Line 354" x2="9.387" transform="translate(4.583 2.874)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_12196-2" data-name="Path 12196" d="M0,0,2.49,2.492a.54.54,0,0,1,0,.765L0,5.747" transform="translate(12.017)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <line id="Line_458" data-name="Line 458" x2="15" transform="translate(1362.5 168.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

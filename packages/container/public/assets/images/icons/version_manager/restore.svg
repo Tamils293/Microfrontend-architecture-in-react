@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="105" viewBox="0 0 125 105">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.336" y1="0.322" x2="0.822" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7e06"/>
+      <stop offset="1" stop-color="#ffbf23"/>
+    </linearGradient>
+    <filter id="Polygon_34" x="0" y="0" width="125" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ff9100" flood-opacity="0.388"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="restore" transform="translate(-773 -363)">
+    <g transform="matrix(1, 0, 0, 1, 773, 363)" filter="url(#Polygon_34)">
+      <path id="Polygon_34-2" data-name="Polygon 34" d="M48.389,8.311a6,6,0,0,1,10.222,0l42.767,69.546A6,6,0,0,1,96.267,87H10.733a6,6,0,0,1-5.111-9.143Z" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(811 399)">
+      <g id="invisible_box" data-name="invisible box">
+        <rect id="Rectangle_906" data-name="Rectangle 906" width="48" height="48" fill="none"/>
+      </g>
+      <g id="icons_Q2" data-name="icons Q2">
+        <g id="Group_5726" data-name="Group 5726">
+          <circle id="Ellipse_1327" data-name="Ellipse 1327" cx="3" cy="3" r="3" transform="translate(21 37)" fill="#fff"/>
+          <path id="Path_12251" data-name="Path 12251" d="M23.8,33h.4a2.2,2.2,0,0,0,2.1-2L28,7.3a4,4,0,0,0-8,0L21.7,31A2.2,2.2,0,0,0,23.8,33Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1510" data-name="Rectangle 1510" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="cloudant" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="cloudant-2" data-name="cloudant" transform="translate(1450 229.336)">
+      <path id="Path_13634" data-name="Path 13634" d="M22,11.664a11,11,0,1,1-11-11,11,11,0,0,1,11,11" fill="#72c7e6"/>
+      <g id="Group_6693" data-name="Group 6693">
+        <path id="Path_13635" data-name="Path 13635" d="M45.46,60.34s-.445-2.215,4.043-2.717c.184-2.959,10.613-3.024,8.011.741,1.927.667,1.614,2.009,1.614,2.009a1.961,1.961,0,0,1-.593,1.449c-.67.692-1.385,1.121-3.623,1.12a8.075,8.075,0,0,1-3.667-.637,7.5,7.5,0,0,1-4.874-.5c-1.109-.845-.911-1.46-.911-1.46" transform="translate(-41.541 -50.092)" fill="#fff"/>
+        <path id="Path_13636" data-name="Path 13636" d="M45.6,112.186v3.425s.231,3.1,5.862,1.877c2.239,1.647,7.41.593,7.805-1.35v-3.919c.033.955-4.413,3.557-7.772,1.317-5.006,1.12-5.9-1.35-5.9-1.35" transform="translate(-41.685 -101.938)" fill="#002c77"/>
+      </g>
+    </g>
+  </g>
+</svg>

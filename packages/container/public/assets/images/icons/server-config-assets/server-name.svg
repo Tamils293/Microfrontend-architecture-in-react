@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_858" data-name="Rectangle 858" width="18" height="18" transform="translate(250 228)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="server-name" transform="translate(-250 -228)" clip-path="url(#clip-path)">
+    <g id="Group_5663" data-name="Group 5663" transform="translate(551.67 -151.833)">
+      <path id="Path_12201" data-name="Path 12201" d="M-286.9,396.833h-11.667a1.1,1.1,0,0,1-1.1-1.1v-13.2a1.083,1.083,0,0,1,1.083-1.083h11.7a1.083,1.083,0,0,1,1.083,1.083v13.2A1.1,1.1,0,0,1-286.9,396.833Z" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_358" data-name="Line 358" x1="13.87" transform="translate(-299.67 389.337)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_1312" data-name="Ellipse 1312" cx="0.521" cy="0.521" r="0.521" transform="translate(-297.5 384.917)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_1313" data-name="Ellipse 1313" cx="0.521" cy="0.521" r="0.521" transform="translate(-294.688 384.917)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_359" data-name="Line 359" x2="4.598" transform="translate(-292.223 385.438)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_1314" data-name="Ellipse 1314" cx="0.521" cy="0.521" r="0.521" transform="translate(-297.5 392.708)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_1315" data-name="Ellipse 1315" cx="0.521" cy="0.521" r="0.521" transform="translate(-294.688 392.708)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_360" data-name="Line 360" x2="4.598" transform="translate(-292.223 393.229)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

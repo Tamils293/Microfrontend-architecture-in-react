@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="26" viewBox="0 0 41 26">
+  <g id="more" transform="translate(-519 -220)">
+    <path id="Rounded_Rectangle_621" data-name="Rounded Rectangle 621" d="M13,0H41a0,0,0,0,1,0,0V13A13,13,0,0,1,28,26H13A13,13,0,0,1,0,13v0A13,13,0,0,1,13,0Z" transform="translate(519 220)" fill="#f4f6f9"/>
+    <g id="Group_2976" data-name="Group 2976" transform="translate(528.193 231)">
+      <circle id="Ellipse_1166" data-name="Ellipse 1166" cx="2" cy="2" r="2" transform="translate(1.474)" fill="#8f9198"/>
+      <circle id="Ellipse_1167" data-name="Ellipse 1167" cx="2" cy="2" r="2" transform="translate(9.807)" fill="#8f9198"/>
+      <circle id="Ellipse_1168" data-name="Ellipse 1168" cx="2" cy="2" r="2" transform="translate(18.141)" fill="#8f9198"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3821" data-name="Rectangle 3821" width="40" height="40" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="save" clip-path="url(#clip-path)">
+    <g id="Group_12197" data-name="Group 12197" transform="translate(5.333 4.267)">
+      <path id="Path_21403" data-name="Path 21403" d="M5.692,4.04H30.621l4.514,4.514v28.8h-30V4.04Z" transform="translate(-5.13 -4.025)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_21404" data-name="Path 21404" d="M10.24,4.04V15.531H24.908V4.04" transform="translate(-2.473 -4.025)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      <line id="Line_1120" data-name="Line 1120" y2="10.458" transform="translate(18.437 0.485)" fill="#d9f0f9" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      <line id="Line_1121" data-name="Line 1121" x2="19.046" transform="translate(5.108)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      <rect id="Rectangle_3820" data-name="Rectangle 3820" width="20.748" height="8.877" transform="translate(5.062 19.531)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      <line id="Line_1122" data-name="Line 1122" x2="13.984" transform="translate(8.467 23.955)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+    </g>
+  </g>
+</svg>

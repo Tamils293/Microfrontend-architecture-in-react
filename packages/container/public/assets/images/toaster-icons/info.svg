@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.645" y1="1" x2="-0.226" y2="0.609" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27a5e6"/>
+      <stop offset="1" stop-color="#1a5cce"/>
+    </linearGradient>
+  </defs>
+  <g id="info" transform="translate(-714 -129)">
+    <rect id="Rectangle_995" data-name="Rectangle 995" width="44" height="44" rx="22" transform="translate(714 129)" fill="url(#linear-gradient)"/>
+    <path id="Path_12391" data-name="Path 12391" d="M23.3,28.438l-2.936.261s1.435-5.154,2.479-8.611A2.675,2.675,0,0,0,20.494,16.5a2.349,2.349,0,0,0-1.762.783l-2.61,2.153a.457.457,0,0,0,.391.783l2.936-.261-2.479,8.611a2.675,2.675,0,0,0,2.349,3.588,2.349,2.349,0,0,0,1.762-.783l2.61-2.153a.457.457,0,0,0-.391-.783Z" transform="translate(715.688 128.092)" fill="#fff"/>
+    <ellipse id="Ellipse_1351" data-name="Ellipse 1351" cx="2.099" cy="2.099" rx="2.099" ry="2.099" transform="translate(737.135 138.751)" fill="#fff"/>
+  </g>
+</svg>

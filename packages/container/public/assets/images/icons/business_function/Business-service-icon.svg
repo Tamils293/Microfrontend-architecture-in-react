@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_871" data-name="Rectangle 871" width="18" height="18" transform="translate(224.4 229)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Business-service-icon" transform="translate(-224.4 -229)" clip-path="url(#clip-path)">
+    <g id="Group_5690" data-name="Group 5690" transform="translate(101.171 -283.861)">
+      <path id="Path_12211" data-name="Path 12211" d="M152.388,516.3v-.972a.8.8,0,0,1,.8-.8h4.951a.8.8,0,0,1,.8.8v.972" transform="translate(-23.399 -1)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_870" data-name="Rectangle 870" width="16.785" height="13.246" rx="2" transform="translate(123.872 516.047)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_12212" data-name="Path 12212" d="M140.657,549.564a2.108,2.108,0,0,1-2.108,2.108H125.98a2.108,2.108,0,0,1-2.108-2.108" transform="translate(0 -29.002)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

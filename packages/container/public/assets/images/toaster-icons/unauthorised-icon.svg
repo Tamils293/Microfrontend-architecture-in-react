@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.906" y1="0.591" x2="0.103" y2="0.614" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f43989"/>
+      <stop offset="1" stop-color="#ff2046"/>
+    </linearGradient>
+  </defs>
+  <g id="unauthorised-icon" transform="translate(-714 -129)">
+    <rect id="Rectangle_995" data-name="Rectangle 995" width="44" height="44" rx="22" transform="translate(714 129)" fill="url(#linear-gradient)"/>
+    <g id="Group_5940" data-name="Group 5940" transform="translate(-0.171 -2.183)">
+      <g id="Group_5939" data-name="Group 5939" transform="translate(726.684 141.183)">
+        <ellipse id="Ellipse_1382" data-name="Ellipse 1382" cx="3.883" cy="3.883" rx="3.883" ry="3.883" transform="translate(3.517)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_12709" data-name="Path 12709" d="M10.528,10.605A6.733,6.733,0,0,0,1.9,17.062h8.115" transform="translate(-1.882 0.466)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <ellipse id="Ellipse_1383" data-name="Ellipse 1383" cx="4.958" cy="4.958" rx="4.958" ry="4.958" transform="translate(11.409 11.283)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_479" data-name="Line 479" x1="6.633" y2="7.368" transform="translate(13.07 12.576)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

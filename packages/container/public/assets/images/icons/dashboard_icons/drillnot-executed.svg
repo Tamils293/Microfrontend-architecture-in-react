@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="drillnot-executed" transform="translate(-1348.956 -447.541)">
+    <g id="Group_6240" data-name="Group 6240" transform="translate(665.389 129.254)">
+      <ellipse id="Ellipse_1461" data-name="Ellipse 1461" cx="12" cy="12" rx="12" ry="12" transform="translate(683.567 318.287)" fill="#dd575e"/>
+    </g>
+    <g id="Group_6241" data-name="Group 6241" transform="translate(1121.848 -296.631) rotate(45)">
+      <line id="Line_651" data-name="Line 651" x1="12.528" transform="translate(697.505 365.619)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_652" data-name="Line 652" y2="12.528" transform="translate(703.77 359.354)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

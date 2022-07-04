@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_959" data-name="Rectangle 959" width="18" height="18" transform="translate(705 395)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="normal" transform="translate(-705 -395)" clip-path="url(#clip-path)">
+    <g id="normal-2" data-name="normal" transform="translate(-70 -1)">
+      <g id="Ellipse_1320" data-name="Ellipse 1320" transform="translate(778 399)" fill="none" stroke="#17c05f" stroke-width="2">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

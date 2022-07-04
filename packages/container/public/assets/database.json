@@ -1,0 +1,131 @@
+
+
+[{
+"name":"Oracle",
+"fields":[
+   
+   { 
+         "field_name":"db_connectivity",
+         "label":"Database Connectivity",
+         "type":"dropdown",
+         "id": "databaseType",
+         "value":{},
+         "options":[
+            { "value": "Via SSH", "label": "Via SSH" },
+            { "value": "Direct", "label": "Direct" }
+        ],
+         "required":true
+      },
+        { 
+         "field_name":"Version",
+         "label":"Version",
+         "type":"dropdown",
+         "id": "Version",
+         "value":{},
+         "options":[
+            {"value":"10g","label":"10g"},
+            {"value":"11g","label":"11g"},
+            {"value":"12g","label":"12g"}
+            ],
+           
+         "required":true
+      },
+      {
+         "field_name":"Oracle SID",
+         "label":"Oracle SID",
+         "type":"text",
+         "id": "oracleSId",
+         "value":[],
+         "required":true
+      },
+      {
+         "field_name":"Instance Name",
+         "label":"Instance Name",
+         "type":"text",
+         "id": "instanceName",
+         "value":[],
+         "required":true
+      },
+       {
+         "field_name":"UserName",
+         "label":"UserName",
+         "type":"text",
+         "id": "userName",
+         "value":[],
+         "required":true
+      },
+       {
+         "field_name":"Password",
+         "label":"Password",
+         "type":"text",
+         "id": "password",
+         "value":[],
+         "required":true
+      },
+      {
+         "field_name":"Port",
+         "label":"Port",
+         "type":"text",
+         "id": "Port",
+         "value":[],
+         "required":true
+      },
+      {
+         "field_name":"Archieve Path",
+         "label":"Archieve Path",
+         "type":"text",
+         "id": "archievePath",
+         "value":[],
+         "required":true
+      },
+      {
+         "field_name":"Redo Path",
+         "label":"Redo Path",
+         "type":"text",
+         "id": "redoPath",
+         "value":[],
+         "required":true
+      },
+      {
+         "field_name":"Oracle Home Path",
+         "label":"Oracle Home Path",
+         "type":"text",
+         "id": "OraclehomePath",
+         "value":[],
+         "required":true
+      }
+     
+     
+     
+   ]
+},
+{
+"names":"MYSQL",
+"fields":[
+   {
+         "field_name":"Database Name",
+         "label":"Database Name",
+         "type":"text",
+         "id": "databaseName",
+         "value":[],
+         "required":true
+      },
+       {
+         "field_name":"Database UserName",
+         "label":"Database UserName",
+         "type":"text",
+         "id": "dbUsername",
+         "value":[],
+         "required":true
+      },
+     {
+         "field_name":"Database Password",
+         "label":"Database Password",
+         "type":"text",
+         "id": "dbpassword",
+         "value":[],
+         "required":true
+      }
+     ]
+}
+]

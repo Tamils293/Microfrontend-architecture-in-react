@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1480" data-name="Rectangle 1480" width="22" height="22" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="nutanix" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Page-1" transform="translate(1450.32 233.233)">
+      <g id="nutanix-seeklogo.com" transform="translate(0 0)">
+        <path id="Fill-1" d="M311.9,13.337a.3.3,0,0,1-.193.07h-3.767a.309.309,0,0,1-.284-.172.3.3,0,0,1,.079-.356l6.875-5.79a.324.324,0,0,0,0-.495L307.74.765a.313.313,0,0,1-.113-.287.3.3,0,0,1,.3-.249h3.625a.3.3,0,0,1,.193.07l7.482,6.294.068.058a.252.252,0,0,1,.007.377l-.074.068L311.9,13.337" transform="translate(-307.623 -0.229)" fill="#515151" fill-rule="evenodd"/>
+        <path id="Fill-8" d="M349.117,5.752a.322.322,0,0,0,.417,0l6-4.987a.313.313,0,0,0,.113-.287.3.3,0,0,0-.3-.249h-3.625a.3.3,0,0,0-.193.07l-4.211,3.433a.322.322,0,0,0,0,.492l1.8,1.529" transform="translate(-336.362 -0.229)" fill="#515151" fill-rule="evenodd"/>
+        <path id="Fill-9" d="M349.351,28.143a.322.322,0,0,1,.417,0l6.09,4.974a.313.313,0,0,1,.113.287.3.3,0,0,1-.3.249h-3.626a.3.3,0,0,1-.193-.07L347.671,30.1a.322.322,0,0,1,0-.492l1.681-1.464" transform="translate(-336.615 -20.439)" fill="#515151" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

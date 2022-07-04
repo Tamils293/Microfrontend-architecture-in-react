@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="start" transform="translate(0)">
+    <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(0)" fill="none" stroke="#48e15c" stroke-width="1.5">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.25" fill="none"/>
+    </g>
+    <g id="Group_960" data-name="Group 960" transform="translate(3.963 3.348)">
+      <path id="Polygon_25" data-name="Polygon 25" d="M4.221,1.342a1,1,0,0,1,1.692,0L9.167,6.5a1,1,0,0,1-.846,1.533H1.813A1,1,0,0,1,.967,6.5Z" transform="translate(10.037 1) rotate(90)" fill="#48e15c"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1054" data-name="Rectangle 1054" width="24" height="24" transform="translate(1240.334 146)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="connection_port" transform="translate(-1240.334 -146)" clip-path="url(#clip-path)">
+    <g id="Group_10067" data-name="Group 10067" transform="translate(1242.156 147.77)">
+      <line id="Line_1039" data-name="Line 1039" y2="2.773" transform="translate(10.537 3.63)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_20463" data-name="Path 20463" d="M4.07,10.01H2.746v8.319" transform="translate(0.223 1.942)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_20464" data-name="Path 20464" d="M14.081,10.01h1.324v8.319" transform="translate(2.595 1.942)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_20465" data-name="Path 20465" d="M10.1,16.622l-6.31-5.6,6.31-5.6,6.31,5.6Z" transform="translate(0.441 0.982)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_2134" data-name="Ellipse 2134" cx="1.45" cy="1.45" r="1.45" transform="translate(1.678 17.83)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_2135" data-name="Ellipse 2135" cx="1.45" cy="1.45" r="1.45" transform="translate(9.082 0.73)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_2136" data-name="Ellipse 2136" cx="1.45" cy="1.45" r="1.45" transform="translate(16.55 17.83)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2459" data-name="Rectangle 2459" width="24" height="24" transform="translate(442 81)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="windows" transform="translate(-442 -81)" clip-path="url(#clip-path)">
+    <path id="microsoft-windows-22-logo-svgrepo-com" d="M0,3.124,8.991,1.9l0,8.672-8.986.051L0,3.125Zm8.986,8.447.007,8.68L.007,19.016v-7.5l8.98.058Zm1.09-9.832L22,0V10.462l-11.921.095V1.74ZM22,11.653l0,10.415L10.076,20.385l-.017-8.752Z" transform="translate(443 83)" fill="#00adef"/>
+  </g>
+</svg>

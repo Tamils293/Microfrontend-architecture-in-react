@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1556" data-name="Rectangle 1556" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="datasync" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Group_6740" data-name="Group 6740">
+      <circle id="Ellipse_1522" data-name="Ellipse 1522" cx="12" cy="12" r="12" transform="translate(1449 229)" fill="#0a93e2"/>
+      <g id="Group_6747" data-name="Group 6747" transform="translate(1205.676 -143.101)">
+        <g id="Group_6747-2" data-name="Group 6747" transform="translate(248.323 376.101)">
+          <path id="Path_13723" data-name="Path 13723" d="M251.117,390.658c-1.618-1.84-1.272-4.664-.8-5.884a7.36,7.36,0,0,1,12.09-2.529" transform="translate(-249.923 -379.917)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          <path id="Path_13724" data-name="Path 13724" d="M264.62,386.482a7.359,7.359,0,0,1-9.913,8.044" transform="translate(-250.101 -380.156)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          <path id="Path_13725" data-name="Path 13725" d="M251.532,393.419l2.505,3.507L255.822,393Z" transform="translate(-249.983 -380.398)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          <path id="Path_13726" data-name="Path 13726" d="M264.516,384.044l-1.223-4.133-2.967,3.126Z" transform="translate(-250.31 -379.911)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

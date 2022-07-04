@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2636" data-name="Rectangle 2636" width="25" height="25" transform="translate(57 62)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="signle_signon" transform="translate(-57 -62)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(57 62.003)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(2 1.997)">
+        <path id="Path_18310" data-name="Path 18310" d="M20.905,15.59a4.9,4.9,0,0,0,1.848-3.8,4.987,4.987,0,0,0-2.93-4.481,5.1,5.1,0,0,0,.133-1.123A5.323,5.323,0,0,0,14.5,1,5.461,5.461,0,0,0,9.564,4a3.8,3.8,0,0,0-2.21-.7,3.573,3.573,0,0,0-3.67,3.5,3.062,3.062,0,0,0,.041.51A4.67,4.67,0,0,0,1,11.466a4.8,4.8,0,0,0,4.915,4.68H7.8" transform="translate(-1 -0.997)" fill="none" stroke="#8f9198" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Path_18311" data-name="Path 18311" d="M14.24,27.554v2.195h2.429l1.021-1.057L17.476,27.5l1.582.092V26.222h1.557V24.793a3.062,3.062,0,0,0,1.332.3A3.17,3.17,0,1,0,18.8,21.94a2.868,2.868,0,0,0,.143.908Z" transform="translate(-7.482 -9.689)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Ellipse_1678" data-name="Ellipse 1678" cx="1.266" cy="1.266" r="1.266" transform="translate(13.209 11.047)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

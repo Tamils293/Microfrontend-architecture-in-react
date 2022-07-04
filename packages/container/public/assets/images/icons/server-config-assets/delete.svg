@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_879" data-name="Rectangle 879" width="18" height="18" transform="translate(-11786 -2830)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="delete" transform="translate(11786 2830)" clip-path="url(#clip-path)">
+    <g id="Group_5711" data-name="Group 5711" transform="translate(-11785.545 -2828.71)">
+      <path id="Path_12223" data-name="Path 12223" d="M15.129,2.917V14.571a1.513,1.513,0,0,1-1.513,1.512H3.474a1.512,1.512,0,0,1-1.512-1.512V2.917" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_379" data-name="Line 379" x2="16" transform="translate(0.545 2.625)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_12224" data-name="Path 12224" d="M5.67,2.62V1.762A.957.957,0,0,1,6.486.71H10.6a.957.957,0,0,1,.816,1.052V2.62" transform="translate(0 -1)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_380" data-name="Line 380" y2="8.708" transform="translate(5.67 4.625)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_381" data-name="Line 381" y2="8.708" transform="translate(11.42 4.625)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

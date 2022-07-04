@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1707" data-name="Rectangle 1707" width="24" height="24" transform="translate(250 226)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="cyber_ark" transform="translate(-250 -226)" clip-path="url(#clip-path)">
+    <g id="cyberark-icon" transform="translate(252.463 227)">
+      <g id="Group_9018" data-name="Group 9018">
+        <path id="Path_18312" data-name="Path 18312" d="M4.913,8.332,9.537,5.656V0L0,5.512Z" fill="#5090ca"/>
+        <path id="Path_18313" data-name="Path 18313" d="M27.752,22l-.008-5.653,4.632-2.672,4.9-2.829V16.5Zm-.02-16.344,4.632,2.672L37.258,5.5,27.735,0Z" transform="translate(-18.199)" fill="#3374ae"/>
+        <path id="Path_18314" data-name="Path 18314" d="M9.582,42.456,4.95,39.784.056,42.613l9.537,5.492Z" transform="translate(-0.037 -26.108)" fill="#5090ca"/>
+        <path id="Path_18315" data-name="Path 18315" d="M4.913,24.2V18.854L0,16.034l.015,11Z" transform="translate(0 -10.522)" fill="#3374ae"/>
+        <path id="Path_18316" data-name="Path 18316" d="M27.742,16.455l4.632,2.672v5.348L27.742,21.8Z" transform="translate(-18.206 -10.799)" fill="#808184"/>
+        <path id="Path_18317" data-name="Path 18317" d="M18.916,16.455V21.8l-4.623,2.672V19.131l4.623-2.676" transform="translate(-9.38 -10.799)" fill="#58595b"/>
+      </g>
+    </g>
+  </g>
+</svg>

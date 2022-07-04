@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_865" data-name="Rectangle 865" width="22" height="22" transform="translate(474 229)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="database" transform="translate(-474 -229)" clip-path="url(#clip-path)">
+    <g id="Group_2980" data-name="Group 2980" transform="translate(475.525 231.443)">
+      <path id="Path_9266" data-name="Path 9266" d="M23.488,7.441v6.45c0,1.51-4.1,2.739-9.141,2.739S5.2,15.4,5.2,13.891V7.441c0,1.5,4.087,2.728,9.143,2.728S23.488,8.94,23.488,7.441Z" transform="translate(-5.204 -4.714)" fill="rgba(0,0,0,0)" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_9267" data-name="Path 9267" d="M23.488,11.441v6.45c0,1.51-4.1,2.739-9.141,2.739S5.2,19.4,5.2,17.891v-6.45c0,1.5,4.087,2.727,9.143,2.727S23.488,12.94,23.488,11.441Z" transform="translate(-5.204 -2.295)" fill="rgba(0,0,0,0)" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_9268" data-name="Path 9268" d="M23.488,8.469c0,1.5-4.1,2.728-9.141,2.728S5.2,9.967,5.2,8.469c0-.847,1.289-1.6,3.315-2.1h.012a24.874,24.874,0,0,1,5.816-.626c.99,0,1.933.05,2.821.135C20.829,6.233,23.488,7.265,23.488,8.469Z" transform="translate(-5.204 -5.742)" fill="rgba(0,0,0,0)" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

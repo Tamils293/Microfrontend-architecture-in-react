@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2570" data-name="Rectangle 2570" width="22" height="22" transform="translate(504 239)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Union_11" x="-377.333" y="-75.75" width="533.947" height="158.25" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="worflow" transform="translate(-504 -239)" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 504, 239)" filter="url(#Union_11)">
+      <path id="Union_11-2" data-name="Union 11" d="M15,140.25a15,15,0,0,1-15-15V15A15,15,0,0,1,15,0H488.335a15,15,0,0,1,15,15V62.592L515.4,68.777a1,1,0,0,1,0,1.779l-12.068,6.186V125.25a15,15,0,0,1-15,15Z" transform="translate(-370.33 -68.75)" fill="none"/>
+    </g>
+    <g id="Group_8894" data-name="Group 8894" transform="translate(505.615 240.375)">
+      <circle id="Ellipse_1649" data-name="Ellipse 1649" cx="3.196" cy="3.196" r="3.196" transform="translate(5.989 0)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_1650" data-name="Ellipse 1650" cx="3.196" cy="3.196" r="3.196" transform="translate(0 12.859)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_1651" data-name="Ellipse 1651" cx="3.196" cy="3.196" r="3.196" transform="translate(12.38 12.859)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_18157" data-name="Path 18157" d="M3.854,11.549V10.209a.78.78,0,0,1,.78-.78H15.453a.781.781,0,0,1,.78.78v1.339" transform="translate(-0.658 0.894)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_829" data-name="Line 829" y2="3.93" transform="translate(9.184 6.392)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

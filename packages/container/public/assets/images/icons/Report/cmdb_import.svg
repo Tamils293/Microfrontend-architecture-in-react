@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3529" data-name="Rectangle 3529" width="22" height="22" transform="translate(474 229)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="cmdb_import" transform="translate(-474 -229)" clip-path="url(#clip-path)">
+    <g id="Group_10008" data-name="Group 10008" transform="translate(865.152 -8.508)">
+      <path id="Path_20372" data-name="Path 20372" d="M-374.427,240.837h3.438v14.515h-17.288V240.837h3.2" transform="translate(0.189 0.503)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_20373" data-name="Path 20373" d="M-369.734,256.611h-19.419V247.3h3.051l2.857,4.655h7.022l3.487-4.655h3Z" transform="translate(0 1.897)" fill="#fff" stroke="#515151" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_20374" data-name="Path 20374" d="M-375.743,246.858h-3.184v-8.349h-2.812v8.349h-3.184l4.59,4.745Z" transform="translate(0.913 0)" fill="none" stroke="#515151" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

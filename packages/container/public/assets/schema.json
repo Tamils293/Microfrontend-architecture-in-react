@@ -1,0 +1,15 @@
+{
+  
+  "title": "Person",
+  "description": "A person",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "object"
+    },
+    "db_connectivity": {
+      "type": "string"
+    }
+  },
+  "required": ["version", "db_connectivity"]
+}

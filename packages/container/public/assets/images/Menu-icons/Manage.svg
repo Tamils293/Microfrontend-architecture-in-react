@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_972" data-name="Rectangle 972" width="28" height="28" transform="translate(-14215 -5467)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#153288" stop-opacity="0.533"/>
+      <stop offset="1" stop-color="#0b1944" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="Manage" transform="translate(14215 5467)" clip-path="url(#clip-path)">
+    <path id="MaNAGE-2" data-name="MaNAGE" d="M19.78,6.47h-9L10.2,5.06A1.68,1.68,0,0,0,8.65,4H4.22A2.24,2.24,0,0,0,2,6.26V17.74A2.24,2.24,0,0,0,4.22,20H19.78A2.24,2.24,0,0,0,22,17.74v-9a2.23,2.23,0,0,0-2.22-2.27Z" transform="translate(-14213 -5465)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

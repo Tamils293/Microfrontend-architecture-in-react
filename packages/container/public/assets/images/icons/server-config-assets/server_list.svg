@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_859" data-name="Rectangle 859" width="24" height="24" transform="translate(368 148)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_47" data-name="Mask Group 47" transform="translate(-368 -148)" clip-path="url(#clip-path)">
+    <g id="Group_5664" data-name="Group 5664" transform="translate(369.031 149.219)">
+      <path id="Path_12202" data-name="Path 12202" d="M19.279,11.663H2.776c-.857,0-1.553-.348-1.553-.777V1.546c0-.423.686-.765,1.53-.765H19.3c.846,0,1.53.342,1.53.765v9.34C20.831,11.315,20.136,11.663,19.279,11.663Z" transform="translate(0.001 0)" fill="none" stroke="#8f9198" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_1316" data-name="Ellipse 1316" cx="0.737" cy="0.737" r="0.737" transform="translate(4.289 5.688)" fill="none" stroke="#8f9198" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_1317" data-name="Ellipse 1317" cx="0.737" cy="0.737" r="0.737" transform="translate(8.267 5.688)" fill="none" stroke="#8f9198" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_361" data-name="Line 361" x2="4" transform="translate(13.469 6.281)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_12203" data-name="Path 12203" d="M8.15,12.421V8.25" transform="translate(2.872 4.031)" fill="none" stroke="#8f9198" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_1318" data-name="Ellipse 1318" cx="2.667" cy="2.667" r="2.667" transform="translate(8.362 16.447)" fill="none" stroke="#8f9198" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_362" data-name="Line 362" x1="7.143" transform="translate(13.695 19.111)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_363" data-name="Line 363" x1="7.143" transform="translate(1.22 19.111)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1571" data-name="Rectangle 1571" width="24" height="24" transform="translate(474 229)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="db_name" transform="translate(-474 -229)" clip-path="url()">
+    <g id="Group_6775" data-name="Group 6775" transform="translate(476.62 232.624)">
+      <path id="Path_13741" data-name="Path 13741" d="M23.238,7.441V13.8c0,1.489-4.043,2.7-9.016,2.7S5.2,15.292,5.2,13.8V7.441c0,1.478,4.031,2.691,9.018,2.691S23.238,8.919,23.238,7.441Z" transform="translate(-5.204 -4.752)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13742" data-name="Path 13742" d="M23.238,11.441V17.8c0,1.489-4.043,2.7-9.016,2.7S5.2,19.292,5.2,17.8V11.441c0,1.478,4.031,2.689,9.018,2.689S23.238,12.919,23.238,11.441Z" transform="translate(-5.204 -2.421)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_13743" data-name="Path 13743" d="M23.238,8.431c0,1.478-4.043,2.691-9.016,2.691S5.2,9.909,5.2,8.431c0-.836,1.271-1.575,3.27-2.072h.012a24.533,24.533,0,0,1,5.736-.617c.976,0,1.906.049,2.782.133C20.615,6.226,23.238,7.244,23.238,8.431Z" transform="translate(-5.204 -5.742)" fill="rgba(0,0,0,0)" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

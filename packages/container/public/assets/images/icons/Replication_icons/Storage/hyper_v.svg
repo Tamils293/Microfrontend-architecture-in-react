@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1480" data-name="Rectangle 1480" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="hyper_v" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <path id="Windows_logo_-_2012" d="M0,2.805l8.072-1.1,0,7.786L.007,9.538Zm8.068,7.584.006,7.793L.006,17.072V10.336Zm.978-8.827L19.749,0V9.393l-10.7.085Zm10.7,8.9,0,9.35L9.046,18.3l-.015-7.857Z" transform="translate(1451 231)" fill="#00adef"/>
+  </g>
+</svg>

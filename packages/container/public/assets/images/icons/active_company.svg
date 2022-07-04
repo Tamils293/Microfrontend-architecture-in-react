@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2610" data-name="Rectangle 2610" width="28" height="28" transform="translate(349 147)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="active_company" transform="translate(-349 -147)" clip-path="url(#clip-path)">
+    <g id="active_companies" transform="translate(198.502 79.592)">
+      <path id="Rectangle_2609" data-name="Rectangle 2609" d="M1,0H4.031a1,1,0,0,1,1,1V13.214a0,0,0,0,1,0,0H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(153.11 77.97)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_843" data-name="Line 843" x2="4.574" transform="translate(162.421 74.852)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_844" data-name="Line 844" x2="4.574" transform="translate(162.421 79.226)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_18272" data-name="Path 18272" d="M13.38,15.262l1.72,1.379,2.853-3.211" transform="translate(155.012 72.14)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_18247" data-name="Path 18247" d="M-12.431,103.053v10.4a6.037,6.037,0,0,0-5.158,5.991A5.929,5.929,0,0,0-16.34,123.3h-7.845V103.053a.914.914,0,0,1,.915-.915h9.925A.914.914,0,0,1-12.431,103.053Z" transform="translate(182.326 -32.118)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_18248" data-name="Path 18248" d="M-5.045,120.494a6.013,6.013,0,0,1-5.935,6.091,6.015,6.015,0,0,1-4.751-2.228,5.924,5.924,0,0,1-1.251-3.863,6.038,6.038,0,0,1,5.251-5.991h.763A6.013,6.013,0,0,1-5.045,120.494Z" transform="translate(181.695 -33.049)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1606" data-name="Rectangle 1606" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="group_role" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Collaboration" transform="translate(1184.69 -3972.429)">
+      <circle id="Ellipse_854" data-name="Ellipse 854" cx="2.982" cy="2.982" r="2.982" transform="translate(268.057 4203.429)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <circle id="Ellipse_855" data-name="Ellipse 855" cx="2.982" cy="2.982" r="2.982" transform="translate(278.604 4212.058)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_7295" data-name="Path 7295" d="M1550.833,573.163v-1.814a1.682,1.682,0,0,1,1.682-1.682h5.768a1.683,1.683,0,0,1,1.683,1.682v1.9" transform="translate(-1284.524 3641.016)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_7296" data-name="Path 7296" d="M1550.833,573.163v-1.814a1.682,1.682,0,0,1,1.682-1.682h5.768a1.683,1.683,0,0,1,1.683,1.682v1.9" transform="translate(-1273.657 3649.645)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_7297" data-name="Path 7297" d="M1592.818,549.667h1.752a5.288,5.288,0,0,1,5.288,5.287v.437" transform="translate(-1313.583 3654.174)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_7298" data-name="Path 7298" d="M1564.54,602.889h-1.752a5.288,5.288,0,0,1-5.288-5.287v-.437" transform="translate(-1291.041 3620.728)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3524" data-name="Rectangle 3524" width="22" height="22" transform="translate(250 226)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="datasync_monitor" transform="translate(-250 -226)" clip-path="url(#clip-path)">
+    <g id="Group_10004" data-name="Group 10004" transform="translate(-64.601 151.5)">
+      <path id="Path_117" data-name="Path 117" d="M318.344,88.6a8,8,0,0,0,7.249,11.362l6.827.166" transform="translate(0 -6.554)" fill="none" stroke="#515151" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_118" data-name="Path 118" d="M335.1,90.277a8,8,0,0,0-7.436-10.924h-5.922" transform="translate(-2.072 -1.928)" fill="none" stroke="#515151" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_119" data-name="Path 119" d="M323.65,79.351l-1.925-1.925L323.65,75.5" transform="translate(-2.063 0)" fill="none" stroke="#515151" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_120" data-name="Path 120" d="M343.573,111.669l1.925-1.925-1.925-1.925" transform="translate(-12.994 -16.169)" fill="none" stroke="#515151" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

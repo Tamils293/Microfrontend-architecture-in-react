@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1512" data-name="Rectangle 1512" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="exchange" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Group_6694" data-name="Group 6694">
+      <path id="Path_13637" data-name="Path 13637" d="M28.8,8H23.921a1.4,1.4,0,0,0-.987.409L11.409,19.934a1.4,1.4,0,0,0-.409.987V25.8a1.4,1.4,0,0,0,1.4,1.4h4.883a1.4,1.4,0,0,0,.987-.409L29.791,15.266a1.4,1.4,0,0,0,.409-.987V9.4A1.4,1.4,0,0,0,28.8,8Z" transform="translate(1441.8 223)" fill="#28a8ea"/>
+      <path id="Path_13638" data-name="Path 13638" d="M43.2,41.6H38.321a1.4,1.4,0,0,1-.987-.409L35,38.857V34.5A2.5,2.5,0,0,1,37.5,32h4.361l2.334,2.334a1.4,1.4,0,0,1,.409.987V40.2A1.4,1.4,0,0,1,43.2,41.6Z" transform="translate(1427.4 208.6)" fill="#0078d4"/>
+      <path id="Path_13639" data-name="Path 13639" d="M12.4,8h4.883a1.4,1.4,0,0,1,.987.409L20.6,10.743V15.1a2.5,2.5,0,0,1-2.5,2.5H13.743l-2.334-2.334A1.4,1.4,0,0,1,11,14.279V9.4A1.4,1.4,0,0,1,12.4,8Z" transform="translate(1441.8 223)" fill="#50d9ff"/>
+      <path id="Path_13640" data-name="Path 13640" d="M19.8,18.932V29.468a.694.694,0,0,1-.016.16.926.926,0,0,1-.916.772H11V18h7.868a.93.93,0,0,1,.932.932Z" transform="translate(1441.8 217)" opacity="0.2"/>
+      <path id="Path_13641" data-name="Path 13641" d="M20.2,18.332v9.736A1.345,1.345,0,0,1,18.868,29.4H11V17h7.868A1.337,1.337,0,0,1,20.2,18.332Z" transform="translate(1441.8 217.6)" opacity="0.1"/>
+      <path id="Path_13642" data-name="Path 13642" d="M19.8,18.932v9.736a.93.93,0,0,1-.932.932H11V18h7.868a.93.93,0,0,1,.932.932Z" transform="translate(1441.8 217)" opacity="0.2"/>
+      <path id="Path_13643" data-name="Path 13643" d="M19.4,18.932v9.736a.93.93,0,0,1-.932.932H11V18h7.468a.93.93,0,0,1,.932.932Z" transform="translate(1441.8 217)" opacity="0.1"/>
+      <rect id="Rectangle_1511" data-name="Rectangle 1511" width="11.2" height="11.2" rx="2.333" transform="translate(1450 235)" fill="#0078d4"/>
+      <path id="Path_13644" data-name="Path 13644" d="M16.874,25.4H14.255v1.531h2.458v.982H14.255v1.591h2.758v.977H13.066V24.417h3.808Z" transform="translate(1440.561 213.15)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

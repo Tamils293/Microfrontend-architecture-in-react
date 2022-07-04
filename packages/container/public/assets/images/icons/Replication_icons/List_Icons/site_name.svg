@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1675" data-name="Rectangle 1675" width="24" height="24" transform="translate(1449 229)" fill="red"/>
+    </clipPath>
+  </defs>
+  <g id="site_name" transform="translate(-1449 -229)" clip-path="url(#clip-path)">
+    <g id="Group_6912" data-name="Group 6912" transform="translate(1450.904 259.405)">
+      <circle id="Ellipse_1575" data-name="Ellipse 1575" cx="9.861" cy="9.861" r="9.861" transform="translate(0.583 -27.917)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse id="Ellipse_1576" data-name="Ellipse 1576" cx="4.214" cy="9.861" rx="4.214" ry="9.861" transform="translate(6.231 -27.917)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_750" data-name="Line 750" x2="19.08" transform="translate(0.905 -20.528)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_751" data-name="Line 751" x2="19.08" transform="translate(0.905 -15.143)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

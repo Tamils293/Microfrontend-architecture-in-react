@@ -1,0 +1,22 @@
+<svg  width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1054" data-name="Rectangle 1054" width="24" height="24" transform="translate(1239.834 145.5)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="host_name" transform="translate(-1239.834 -145.5)" clip-path="url()">
+    <g id="Group_6789" data-name="Group 6789" transform="translate(-70.239 97)">
+      <path id="Path_1370" data-name="Path 1370" d="M1314.738,78.259h-.675a1.49,1.49,0,0,0-1.49,1.49V90.111a1.49,1.49,0,0,0,1.49,1.49h6.594a1.125,1.125,0,0,1,1.125,1.125v1.3" transform="translate(0 -23.022)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_1371" data-name="Path 1371" d="M1386.2,78.259h.464a1.49,1.49,0,0,1,1.49,1.49V90.111a1.49,1.49,0,0,1-1.49,1.49h-6.409" transform="translate(-57.158 -23.022)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_1372" data-name="Path 1372" d="M1371.82,179.67" transform="translate(-50.038 -108.67)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_120" data-name="Line 120" x2="4.145" transform="translate(1319.686 70.999)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_121" data-name="Line 121" x2="18.418" transform="translate(1312.573 65.611)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_1373" data-name="Path 1373" d="M1333.333,64.368V51.622a.691.691,0,0,1,.744-.622h10.533a.691.691,0,0,1,.744.622V64.368" transform="translate(-17.533)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_122" data-name="Line 122" x2="4.663" transform="translate(1317.354 53.479)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_123" data-name="Line 123" x2="4.197" transform="translate(1322.017 63.798)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_124" data-name="Line 124" x2="8.86" transform="translate(1317.354 55.854)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_125" data-name="Line 125" x2="8.86" transform="translate(1317.354 57.979)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_126" data-name="Line 126" x2="8.86" transform="translate(1317.354 60.414)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

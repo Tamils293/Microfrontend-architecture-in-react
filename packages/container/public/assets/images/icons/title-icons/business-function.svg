@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_963" data-name="Rectangle 963" width="24" height="24" transform="translate(104 108)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="business-function" transform="translate(-104 -108)" clip-path="url(#clip-path)">
+    <g id="Group_5784" data-name="Group 5784" transform="translate(-119.716 455.992)">
+      <path id="Path_12351" data-name="Path 12351" d="M232.469-347.138h11.918a1.084,1.084,0,0,1,1.117,1.049v19.127a1.461,1.461,0,0,1-1.5,1.413H228.176a1.388,1.388,0,0,1-1.429-1.343v-14.993a1.021,1.021,0,0,1,.337-.752l4.607-4.2A1.154,1.154,0,0,1,232.469-347.138Z" transform="translate(0 0)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_12352" data-name="Path 12352" d="M231.992-346.56v4.2a.536.536,0,0,1-.52.553h-4.107" transform="translate(0.193 0.181)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_459" data-name="Line 459" x2="8.742" transform="translate(233.036 -338.062)" fill="#d8f4fd" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_460" data-name="Line 460" x2="8.742" transform="translate(233.036 -334.123)" fill="#d8f4fd" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_461" data-name="Line 461" x2="8.742" transform="translate(233.036 -330.184)" fill="#d8f4fd" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_1337" data-name="Ellipse 1337" cx="0.885" cy="0.885" r="0.885" transform="translate(229.119 -338.947)" fill="#8f9198"/>
+      <circle id="Ellipse_1338" data-name="Ellipse 1338" cx="0.885" cy="0.885" r="0.885" transform="translate(229.119 -335.008)" fill="#8f9198"/>
+      <circle id="Ellipse_1339" data-name="Ellipse 1339" cx="0.885" cy="0.885" r="0.885" transform="translate(229.119 -331.069)" fill="#8f9198"/>
+    </g>
+  </g>
+</svg>

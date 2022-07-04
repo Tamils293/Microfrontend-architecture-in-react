@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1427" data-name="Rectangle 1427" width="24" height="24" transform="translate(250.5 225.5)" fill="#fff" stroke="#8f9198" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="version_manager" transform="translate(-250.5 -225.5)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(252.5 227.5)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0.5 0.5)">
+        <path id="Path_21381" data-name="Path 21381" d="M14.048.977V5.21h-.465a6.839,6.839,0,0,0-6.839,6.839,6.723,6.723,0,0,0,.852,3.1H.977A.49.49,0,0,1,.5,14.668V.977A.477.477,0,0,1,.977.5H13.623a.465.465,0,0,1,.426.477Z" transform="translate(-0.5 -0.5)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1117" data-name="Line 1117" x2="8.361" transform="translate(2.477 3.613)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1118" data-name="Line 1118" x2="4.968" transform="translate(2.477 7.729)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_1119" data-name="Line 1119" x2="3.819" transform="translate(2.477 11.523)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_21382" data-name="Path 21382" d="M19.074,10.969a6.826,6.826,0,0,1-12.9,3.123,6.723,6.723,0,0,1-.761-3.123A6.839,6.839,0,0,1,12.249,4.13h.465A6.813,6.813,0,0,1,19.074,10.969Z" transform="translate(0.925 0.554)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Path_21383" data-name="Path 21383" d="M10.41,6.04v5.2H15.3" transform="translate(2.377 1.108)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

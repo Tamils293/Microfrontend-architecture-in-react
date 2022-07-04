@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3473" data-name="Rectangle 3473" width="24" height="24" transform="translate(616 225)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="active_directory" transform="translate(-616 -225)" clip-path="url(#clip-path)">
+    <g id="Group_9938" data-name="Group 9938" transform="translate(616.677 226.145)">
+      <path id="Path_20157" data-name="Path 20157" d="M1.9,10.85l8.97-8.7,9.242,9.061-9.242,8.427Z" transform="translate(0.355 0.418)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_2089" data-name="Ellipse 2089" cx="2.129" cy="2.129" r="2.129" transform="translate(0.573 9.157)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_2090" data-name="Ellipse 2090" cx="2.129" cy="2.129" r="2.129" transform="translate(17.814 9.11)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_989" data-name="Line 989" y2="14.951" transform="translate(11.268 4.019)" fill="#eff3f4" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_2091" data-name="Ellipse 2091" cx="2.129" cy="2.129" r="2.129" transform="translate(9.194 0.595)" fill="#fff" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_2092" data-name="Ellipse 2092" cx="2.129" cy="2.129" r="2.129" transform="translate(9.221 17.699)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

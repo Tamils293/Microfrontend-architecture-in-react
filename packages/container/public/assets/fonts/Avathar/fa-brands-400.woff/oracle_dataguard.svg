@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3485" data-name="Rectangle 3485" width="24" height="24" transform="translate(616 225)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="oracle_dataguard" transform="translate(-616 -225)" clip-path="url(#clip-path)">
+    <g id="Group_9950" data-name="Group 9950" transform="translate(616.81 225.607)">
+      <path id="Path_20179" data-name="Path 20179" d="M18.236,3.186V16.969c0,1.64-3.727,2.97-8.327,2.97s-8.327-1.33-8.327-2.97V3.186" transform="translate(0 0.677)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Ellipse_2099" data-name="Ellipse 2099" cx="8.327" cy="2.97" rx="8.327" ry="2.97" transform="translate(1.583 0.893)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_20180" data-name="Path 20180" d="M18.236,6.889c0,1.641-3.727,2.97-8.327,2.97S1.583,8.53,1.583,6.889" transform="translate(0 1.77)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_20181" data-name="Path 20181" d="M18.236,10.592c0,1.641-3.727,2.97-8.327,2.97s-8.327-1.329-8.327-2.97" transform="translate(0 2.863)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_20182" data-name="Path 20182" d="M10.005,11.124l4.164-1.287,4.108,1.287s.661,5.657-3.889,8.128C14.388,19.253,10.087,17.972,10.005,11.124Z" transform="translate(2.486 2.64)" fill="#fff" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

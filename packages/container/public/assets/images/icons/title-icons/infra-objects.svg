@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1192" data-name="Rectangle 1192" width="24" height="24" transform="translate(441 151)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="infra-objects" transform="translate(-441 -151)" clip-path="url(#clip-path)">
+    <g id="Group_6004" data-name="Group 6004" transform="translate(-25.259 496.26)">
+      <path id="Path_12776" data-name="Path 12776" d="M.037,8.623V5.591" transform="translate(478.316 -333.632)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_12775" data-name="Path 12775" d="M485.944-337.565H484.5a6.247,6.247,0,0,0-.833-2.017l1.009-1.025a.416.416,0,0,0,0-.608l-1.313-1.329a.466.466,0,0,0-.625,0l-1.025,1.025a6.019,6.019,0,0,0-2-.833v-1.441a.438.438,0,0,0-.448-.448H477.41a.448.448,0,0,0-.448.448v1.441a6.633,6.633,0,0,0-2,.833l-1.009-1.025a.487.487,0,0,0-.64,0L472-341.216a.435.435,0,0,0,0,.624l1.025,1.009a6.249,6.249,0,0,0-.833,2.017h-1.441a.43.43,0,0,0-.432.432v1.873a.43.43,0,0,0,.432.432h1.457a5.934,5.934,0,0,0,.817,2l-1.009,1.025a.435.435,0,0,0,0,.624l1.3,1.329a.487.487,0,0,0,.64,0l1.025-1.041a6.734,6.734,0,0,0,2,.849v1.425a.434.434,0,0,0,.432.448h1.857a.438.438,0,0,0,.448-.448v-1.441a6.019,6.019,0,0,0,2-.833l1.041,1.025a.445.445,0,0,0,.609,0l1.313-1.313a.435.435,0,0,0,0-.624l-1.009-1.025a6.248,6.248,0,0,0,.833-2.017h1.441a.431.431,0,0,0,.448-.416v-1.873A.444.444,0,0,0,485.944-337.565Zm-7.605,3.682a2.334,2.334,0,0,1-2.322-2.322,2.323,2.323,0,0,1,2.322-2.322,2.317,2.317,0,0,1,2.338,2.322A2.327,2.327,0,0,1,478.338-333.883Z" transform="translate(-0.038 -0.218)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_491" data-name="Line 491" x2="9" transform="translate(473.76 -324.91)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_1390" data-name="Ellipse 1390" cx="2.725" cy="2.725" rx="2.725" ry="2.725" transform="translate(483.236 -327.56)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <ellipse id="Ellipse_1391" data-name="Ellipse 1391" cx="2.725" cy="2.725" rx="2.725" ry="2.725" transform="translate(467.835 -327.559)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

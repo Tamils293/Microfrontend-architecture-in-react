@@ -1,0 +1,20 @@
+<svg  width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1575" data-name="Rectangle 1575" width="24" height="24" transform="translate(612 286)" fill="#fff" stroke="#b73f83" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="db-port" transform="translate(-612 -286)" clip-path="url()">
+    <g id="Group_6777" data-name="Group 6777" transform="translate(613.903 288.516)">
+      <rect id="Rectangle_1573" data-name="Rectangle 1573" width="20.762" height="13.821" rx="0.927" transform="translate(0.002)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_12277" data-name="Path 12277" d="M5.126,4.118a1.173,1.173,0,1,1-2.347,0h0A1.173,1.173,0,0,1,3.952,2.945h0A1.172,1.172,0,0,1,5.126,4.117Z" transform="translate(-0.247 -0.549)" fill="#b73f83"/>
+      <path id="Path_12277-2" data-name="Path 12277" d="M5.126,8.959a1.173,1.173,0,1,1-2.347,0h0A1.172,1.172,0,0,1,3.952,7.787h0A1.171,1.171,0,0,1,5.126,8.958Z" transform="translate(-0.247 1.065)" fill="#b73f83"/>
+      <line id="Line_695" data-name="Line 695" x2="20.556" transform="translate(0.105 18.834)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_696" data-name="Line 696" y1="3.707" transform="translate(10.187 13.816)" fill="none" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_1574" data-name="Rectangle 1574" width="5.861" height="2.633" rx="1" transform="translate(7.367 17.518)" fill="#fff" stroke="#b73f83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_697" data-name="Line 697" x1="20.76" transform="translate(0 6.909)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_698" data-name="Line 698" x2="11.78" transform="translate(6.343 3.569)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_699" data-name="Line 699" x2="11.78" transform="translate(6.343 10.024)" fill="none" stroke="#b73f83" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

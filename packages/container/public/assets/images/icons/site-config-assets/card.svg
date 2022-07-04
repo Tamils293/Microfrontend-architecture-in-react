@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="card" transform="translate(-1349 -140)">
+    <rect id="Rectangle_798" data-name="Rectangle 798" width="42" height="42" rx="21" transform="translate(1349 140)" fill="#fff"/>
+    <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(1362 153)" clip-path="url(#clip-path)">
+      <g transform="translate(-1361 -152)">
+        <rect id="Rectangle_868" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1355 -152)">
+        <rect id="Rectangle_868-2" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1349 -152)">
+        <rect id="Rectangle_868-3" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1361 -146)">
+        <rect id="Rectangle_868-4" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1355 -146)">
+        <rect id="Rectangle_868-5" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1349 -146)">
+        <rect id="Rectangle_868-6" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1361 -140)">
+        <rect id="Rectangle_868-7" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1355 -140)">
+        <rect id="Rectangle_868-8" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+      <g transform="translate(-1349 -140)">
+        <rect id="Rectangle_868-9" data-name="Rectangle 868" width="4" height="4" transform="translate(1361 152)" fill="#8f9198"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1360" data-name="Rectangle 1360" width="44" height="44" transform="translate(383 115)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="business-service" transform="translate(-383 -115)" clip-path="url(#clip-path)">
+    <g id="Group_477" data-name="Group 477" transform="translate(386.368 120.043)">
+      <path id="Path_1420" data-name="Path 1420" d="M1365.846,846.343a7.756,7.756,0,1,1-5.058-7.281l-3.967,3.968a2.964,2.964,0,0,0,4.191,4.193l4.125-4.125A7.721,7.721,0,0,1,1365.846,846.343Z" transform="translate(-1329.147 -838.577)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_1421" data-name="Path 1421" d="M1300.552,844.57l-1.493,1.624,2.475,4.3a1.587,1.587,0,0,0,1.375.795h0a2.01,2.01,0,0,0,1.448-.616l.974-1.012a1.263,1.263,0,0,0,.352-.875h0a1.586,1.586,0,0,0-.718-1.327Z" transform="translate(-1299.059 -842.256)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_141" data-name="Line 141" x2="6.922" y2="6.922" transform="translate(5.715 7.984)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_1422" data-name="Path 1422" d="M1317.649,882.483l-4.464-4.5,7.161-6.977,13.216,13.289a4.935,4.935,0,0,1-.009,6.988h0a4.935,4.935,0,0,1-6.949.012l-3.485-3.458-1.566-1.665a1.576,1.576,0,0,0-2.261-.036l-5.2,5.191a4.934,4.934,0,0,1-6.988-.009h0a4.935,4.935,0,0,1-.011-6.949l3.9-3.778" transform="translate(-1303.164 -858.687)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_143" data-name="Line 143" x2="9.987" y2="9.987" transform="translate(16.679 18.651)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_305" data-name="Ellipse 305" cx="0.81" cy="0.81" r="0.81" transform="translate(6.625 28.339)" fill="none" stroke="#8f9198" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

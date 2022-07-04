@@ -1,0 +1,10 @@
+{
+  "errMessages": {
+    "version": {
+      "required": "Enter version"
+    },
+    "db_connectivity": {
+      "required": "enter DB-connectivity"
+    }
+  }
+}
